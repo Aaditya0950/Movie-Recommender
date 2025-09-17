@@ -2,7 +2,6 @@
 
 Movie Recommender is a **content-based recommendation app** built with Streamlit and trained on the TMDB Top 5000 Movies dataset. It suggests similar movies using **overview, genre, cast, crew, and keywords** through NLP and cosine similarity.  
 
-![](data/screenshots/screenshot_streamlit.png)  
 
 ## 🚀 Features  
 - 🔍 Search by movie title  
